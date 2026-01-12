@@ -1,0 +1,1 @@
+this is the password manager which i has created with the little help of ai this password manager is uses the aes encryption to encrypt the password which is stored in it. It can allow user to add, update and view the password stored in it. It also allow the user to check the password of the password manager.
